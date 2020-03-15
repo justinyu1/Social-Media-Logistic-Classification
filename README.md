@@ -1,2 +1,2 @@
 # Social-Media-Logistic-Classification
-Used logistic regression models (k-NN, SVM, Kernel SVM, Naive Bayes, Decision tree, Random Forest) to predict who would purchase a brand new car on a social media advertisement base on age and salary.
+Used logistic regression models (k-NN, SVM, Kernel SVM, Naive Bayes, Decision tree, Random Forest) to classify whether or not an individual purchased a brand new car that was shown on a social media platform. I classified the participants in the study based on their age and estimated salaries. The two results were either yes - they purchased the car or no -they did not purchase the car. I viewed the correct number of predictions by constructing a confusion matrix and plotted the boundaries of the classifications using matplotlib. 
